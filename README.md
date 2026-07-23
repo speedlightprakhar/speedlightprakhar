@@ -38,21 +38,21 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=speedlightprakhar&theme=tokyonight&show_icons=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=speedlightprakhar&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=speedlightprakhar&layout=compact&theme=tokyonight)
 
 ![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=speedlightprakhar&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=speedlightprakhar&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=speedlightprakhar&layout=compact&theme=tokyonight)
 
 ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)
+![](https://github-profile-trophy.vercel.app/?username=speedlightprakhar&theme=onedark)
 
 <!--
 **speedlightprakhar/speedlightprakhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
