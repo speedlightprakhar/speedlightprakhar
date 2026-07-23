@@ -36,7 +36,7 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=speedlightprakhar&theme=tokyonight&show_icons=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
 
