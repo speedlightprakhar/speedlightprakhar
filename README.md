@@ -14,7 +14,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prakhar-sachan-2270a92b6?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](sachanprakhar18@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/u/0/#inbox)
 
 ---
 
