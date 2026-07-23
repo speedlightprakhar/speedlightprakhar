@@ -2,7 +2,7 @@
 
 3rd Year B.Tech Student
 
-- cyber securty
+- 🤖 cyber securty
 - 🌱 Learning AI & Machine Learning
 - 💻 Web Development
 - 📚 DSA Enthusiast
